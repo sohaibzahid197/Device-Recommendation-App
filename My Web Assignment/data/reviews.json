@@ -1,0 +1,52 @@
+{
+    "reviews": [
+        {
+            "deviceId": "huawei-p40-pro",
+            "user": "sohaib3",
+            "rating": 8,
+            "comment": "Nice"
+        },
+        {
+            "deviceId": "Google Pixel 5",
+            "user": "sohaib3",
+            "rating": 10,
+            "comment": "ee"
+        },
+        {
+            "deviceId": "OnePlus 9",
+            "user": "sohaib3",
+            "rating": 9,
+            "comment": "Very Good Phone"
+        },
+        {
+            "deviceId": "Huawei P40 Pro",
+            "user": "abc1",
+            "rating": 9,
+            "comment": "Very Good Phone"
+        },
+        {
+            "deviceId": "Samsung Galaxy Note20",
+            "user": "test4",
+            "rating": 9,
+            "comment": "Samsung Galaxy Note20\r\nIt is a Good Phone "
+        },
+        {
+            "deviceId": "Huawei P40 Pro",
+            "user": "test5",
+            "rating": 9,
+            "comment": "Hello This is a Review of Huawei P40 Pro"
+        },
+        {
+            "deviceId": "huawei-p40-pro1",
+            "user": "abc111",
+            "rating": 9,
+            "comment": "Nice Phone"
+        },
+        {
+            "deviceId": "huawei-p40-pro",
+            "user": "abc111",
+            "rating": 8,
+            "comment": "Very Nice Phone"
+        }
+    ]
+}

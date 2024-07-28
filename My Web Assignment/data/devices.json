@@ -1,0 +1,144 @@
+{
+  "devices": [
+    {
+      "id": "samsung-galaxy-s21",
+      "name": "Samsung Galaxy S21",
+      "manufacturer": "Samsung",
+      "specs": {
+        "memory": "8GB",
+        "camera": "108MP",
+        "battery": "4000mAh",
+        "screenSize": "6.2 inches",
+        "cpu": "Exynos 2100"
+      },
+      "recommendationScore": 9,
+      "officialSite": "https://www.samsung.com/global/galaxy/galaxy-s21-5g/"
+    },
+    {
+      "id": "google-pixel-5",
+      "name": "Google Pixel 5",
+      "manufacturer": "Google",
+      "specs": {
+        "memory": "8GB",
+        "camera": "12.2MP + 16MP",
+        "battery": "4080mAh",
+        "screenSize": "6 inches",
+        "cpu": "Snapdragon 765G"
+      },
+      "recommendationScore": 8.5,
+      "officialSite": "https://store.google.com/product/pixel_5"
+    },
+    {
+      "id": "oneplus-9",
+      "name": "OnePlus 9",
+      "manufacturer": "OnePlus",
+      "specs": {
+        "memory": "12GB",
+        "camera": "48MP + 50MP + 2MP",
+        "battery": "4500mAh",
+        "screenSize": "6.55 inches",
+        "cpu": "Snapdragon 888"
+      },
+      "recommendationScore": 8,
+      "officialSite": "https://www.oneplus.com/global/9"
+    },
+    {
+      "id": "iphone-12",
+      "name": "iPhone 12",
+      "manufacturer": "Apple",
+      "specs": {
+        "memory": "4GB",
+        "camera": "12MP + 12MP",
+        "battery": "2815mAh",
+        "screenSize": "6.1 inches",
+        "cpu": "A14 Bionic"
+      },
+      "recommendationScore": 9,
+      "officialSite": "https://www.apple.com/iphone-12/"
+    },
+    {
+      "id": "xiaomi-mi-11",
+      "name": "Xiaomi Mi 11",
+      "manufacturer": "Xiaomi",
+      "specs": {
+        "memory": "8GB",
+        "camera": "108MP + 13MP + 5MP",
+        "battery": "4600mAh",
+        "screenSize": "6.81 inches",
+        "cpu": "Snapdragon 888"
+      },
+      "recommendationScore": 8.5,
+      "officialSite": "https://www.mi.com/global/mi-11"
+    },
+    {
+      "id": "samsung-galaxy-note20",
+      "name": "Samsung Galaxy Note20",
+      "manufacturer": "Samsung",
+      "specs": {
+        "memory": "8GB",
+        "camera": "12MP + 64MP + 12MP",
+        "battery": "4300mAh",
+        "screenSize": "6.7 inches",
+        "cpu": "Exynos 990"
+      },
+      "recommendationScore": 8.5,
+      "officialSite": "https://www.samsung.com/global/galaxy/galaxy-note20/"
+    },
+    {
+      "id": "sony-xperia-1-ii",
+      "name": "Sony Xperia 1 II",
+      "manufacturer": "Sony",
+      "specs": {
+        "memory": "8GB",
+        "camera": "12MP + 12MP + 12MP",
+        "battery": "4000mAh",
+        "screenSize": "6.5 inches",
+        "cpu": "Snapdragon 865"
+      },
+      "recommendationScore": 8,
+      "officialSite": "https://www.sony.com/electronics/smartphones/xperia-1m2"
+    },
+    {
+      "id": "lg-velvet",
+      "name": "LG Velvet",
+      "manufacturer": "LG",
+      "specs": {
+        "memory": "6GB",
+        "camera": "48MP + 8MP + 5MP",
+        "battery": "4300mAh",
+        "screenSize": "6.8 inches",
+        "cpu": "Snapdragon 765G"
+      },
+      "recommendationScore": 7.5,
+      "officialSite": "https://www.lg.com/global/velvet"
+    },
+    {
+      "id": "huawei-p40-pro",
+      "name": "Huawei P40 Pro",
+      "manufacturer": "Huawei",
+      "specs": {
+        "memory": "8GB",
+        "camera": "50MP + 12MP + 40MP",
+        "battery": "4200mAh",
+        "screenSize": "6.58 inches",
+        "cpu": "Kirin 990 5G"
+      },
+      "recommendationScore": 9,
+      "officialSite": "https://consumer.huawei.com/en/phones/p40-pro/"
+    },
+    {
+      "id": "motorola-edge-plus",
+      "name": "Motorola Edge Plus",
+      "manufacturer": "Motorola",
+      "specs": {
+        "memory": "12GB",
+        "camera": "108MP + 16MP + 8MP",
+        "battery": "5000mAh",
+        "screenSize": "6.7 inches",
+        "cpu": "Snapdragon 865"
+      },
+      "recommendationScore": 8.5,
+      "officialSite": "https://www.motorola.com/us/smartphones-motorola-edge-plus/p"
+    }
+  ]
+}

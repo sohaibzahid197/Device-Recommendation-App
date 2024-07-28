@@ -1,0 +1,30 @@
+{
+    "Android": {
+        "name": "Android",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Android_robot_2014.svg/500px-Android_robot_2014.svg.png",
+        "description": "Android is a mobile operating system developed by Google, based on a modified version of the Linux kernel and other open source software.",
+        "latestVersion": "Android 13",
+        "features": [
+            "New Material You design for personalized user experience",
+            "Enhanced privacy dashboard and microphone and camera indicators",
+            "Improved performance with optimized system-wide animations"
+        ],
+        "differences": [
+            {
+                "feature": "Design",
+                "android12": "New Material You design",
+                "android13": "Revamped design language with minimalism"
+            },
+            {
+                "feature": "Privacy",
+                "android12": "Enhanced privacy dashboard",
+                "android13": "Additional privacy controls"
+            },
+            {
+                "feature": "Performance",
+                "android12": "Improved performance optimizations",
+                "android13": "Further performance enhancements"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "username": "JaneDoe",
+            "password": "password123",
+            "email": "jane@example.com"
+        },
+        {
+            "username": "admin",
+            "password": "ssssssss",
+            "email": "sohaib1828@gmail.com"
+        },
+        {
+            "username": "admin",
+            "password": "111",
+            "email": "111@22"
+        },
+        {
+            "username": "admin",
+            "password": "123",
+            "email": "sohaibzahid9828@gmail.com"
+        },
+        {
+            "username": "admin",
+            "password": "123",
+            "email": "sohaibzahid9828@gmail.com"
+        },
+        {
+            "username": "abc",
+            "password": "$2y$10$Emm\/xNL5RhZsII2tDMaw9.URS1vBwjsmtR5pZjQUt5nVXqJRjOQYe",
+            "email": "sohaib8@gmail.com"
+        },
+        {
+            "username": "abc1",
+            "password": "$2y$10$Le5VOXHcQ9.i.48Wg3QjdeGWjScPpZ8.3XTddtg8gZB\/tA9Y\/CjuS",
+            "email": "zahid197@gmail.com"
+        },
+        {
+            "username": "sohaib3",
+            "password": "$2y$10$GqptNWpmC\/lFBFVyiEe8CubS386mlapa0zgwQS1MGcAD4Sy6o57P.",
+            "email": "tanojinnamuri1999@gmail.com"
+        },
+        {
+            "username": "Abc2",
+            "password": "$2y$10$UzCLpfahRhOUZ7wd7LSskeY0ixo7julZXuzRBRI.izemrDg4z\/6wy",
+            "email": "so@gmail.com"
+        },
+        {
+            "username": "zahid",
+            "password": "$2y$10$ADKJYc7VJAFcc\/4hi8DB5eBsgQ68wMikp6JQI2DQqLvM\/1LNWG7OG",
+            "email": "sohaib197@gmail.com"
+        },
+        {
+            "username": "sohaib1",
+            "password": "$2y$10$KJFRUTCzwXn\/td3eGu3TKuQfxDkb7cwOCDIwa1FJZ4m3kgE85HbBS",
+            "email": "1234@gmail.com"
+        },
+        {
+            "username": "test4",
+            "password": "$2y$10$VeAKzKLuHserNkDC.pNkIORMn0mPLRjbc6kCvpr.IvCUcXIYGCh2.",
+            "email": "test4@gamil.com"
+        },
+        {
+            "username": "test5",
+            "password": "$2y$10$3VBUZ3xnzA\/wXRYyA0\/.2OnSpM6nOpXVlH4m3eXuvak1DTj46NQUa",
+            "email": "test5@g"
+        },
+        {
+            "username": "abc111",
+            "password": "$2y$10$RDlggs9OykPSU0R8Lm5UYu4efsT.hX9ASgh.jnjWA4t1WfSqt8\/QO",
+            "email": "abc111@gmail.com"
+        }
+    ]
+}
